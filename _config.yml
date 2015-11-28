@@ -1,0 +1,28 @@
+name: Townhouse275
+favicon: null
+layout_spectrum: 0.5685764402151108
+typography_spectrum: 0.4067477476783097
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.09777718270197511
+  lightness: 0.7014029959682375
+  saturation: 0.45651018689386547
+  rhythmicContrast: 0.5884683567564934
+purpose: []
