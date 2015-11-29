@@ -1,7 +1,7 @@
 name: Townhouse275
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.10646
+typography_spectrum: 0.81107
 title: "Bay Ridge, Brooklyn's First Mixology Bar"
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#b2b290'
     - '#a48358'
     - '#0038be'
-  brandStrength: 0.75
-  lightness: 0.8125
-  saturation: 0.8125
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []
