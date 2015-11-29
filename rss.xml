@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bay Ridge, Brooklyn's First Mixology Bar]]></title>
+        <description><![CDATA[Bay Ridge, Brooklyn's First Mixology Bar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 29 Nov 2015 04:05:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[PIES]]></title>
+            <description><![CDATA[<article><h1>PIES</h1><p>Mama Sam's Meat Pies</p><img src="https://scontent.fphl1-1.fna.fbcdn.net/hphotos-xaf1/v/t1.0-9/10574275_281271375398017_226186250832435965_n.jpg?oh=adc5bb51f2601491c908e4828571b5fa&oe=56E494F6"></article>]]></description>
+            <link>undefinedpies/index.html</link>
+            <guid isPermaLink="false">af9c4b62-1c27-4915-a5b8-b09a91e0e246</guid>
+            <pubDate>Sun, 29 Nov 2015 04:05:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
